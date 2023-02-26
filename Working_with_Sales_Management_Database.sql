@@ -1,5 +1,5 @@
-create database QuanLyBanHang;
-use QuanLyBanHang; 
+create database sales_manager;
+use sales_manager; 
 create table Customer (
 cId int primary key auto_increment,
 cName varchar(25),
